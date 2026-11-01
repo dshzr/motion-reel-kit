@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+.env
+.env.*
+videos/*
+!videos/apps-sob-medida-30s/
+videos/apps-sob-medida-30s/review/
+videos/apps-sob-medida-30s/renders/draft_*
+*.wav
+*.npy
+.DS_Store
